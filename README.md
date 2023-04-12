@@ -1,1 +1,1 @@
-I am still getting along as an ALX software Engineer
+I am still getting along as an ALX softwareEngineer
